@@ -1,3 +1,3 @@
 #WRITE YOUR CODE IN THIS FILE
-def echo(x):
-    print(x*5)
+def echo(x,y):
+    print(x*y)
